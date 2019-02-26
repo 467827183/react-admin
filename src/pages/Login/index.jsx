@@ -12,7 +12,7 @@ export default class bbbb extends Component{
             </header>
             <section className="styls">
               <h2>用户登录</h2>
-            <WrappedLoginForm/>
+              <WrappedLoginForm/>
             </section>
           </div>
         )
